@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Jaime Zaragoza, a Web developer based in Mexico.
+
+Currently, I'm looking for a remote position for Web system development.
+
+I am willing to relocate to any part of the world.
+
+
+If you are also interested, you can find my team's website on the link below, we create awesome webpages for clients all around the world.
+
 <!--
 **James-Zagram/James-Zagram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
