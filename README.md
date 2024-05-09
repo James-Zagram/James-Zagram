@@ -8,9 +8,13 @@ Currently, I'm looking for a remote position for Web system development.
 If you are also interested, you can find all my developments here, with my team we create awesome webpages for clients all around the world.
 
 https://www.bsystems.com.mx/
+
 https://genservicios.com/
+
 http://www.grupohidalgo.com.mx/
+
 https://mexico.praxisglobe.com/
+
 https://www.penca.pencaglobe.com/
 
 <!--
